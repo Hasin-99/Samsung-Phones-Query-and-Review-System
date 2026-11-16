@@ -1,0 +1,741 @@
+id,phone_id,category,label,value
+1145,33,Network,Technology,GSM / HSPA / LTE / 5G
+1146,33,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1147,33,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1148,33,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 28, 32, 38, 40, 41, 66 - International"
+1149,33,Network,Other,"1, 2, 3, 4, 5, 7, 12, 13, 14, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA"
+1150,33,Network,5G bands,"1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - International"
+1151,33,Network,Other,"2, 5, 25, 41, 66, 71, 77, 78 SA/NSA/Sub6/mmWave - USA"
+1152,33,Network,Speed,"HSPA, LTE, 5G"
+1153,33,Launch,Announced,"2025, March 02"
+1154,33,Launch,Status,"Available. Released 2025, March 10"
+1155,33,Body,Dimensions,162.9 x 78.2 x 7.4 mm (6.41 x 3.08 x 0.29 in)
+1156,33,Body,Weight,195 g (6.88 oz)
+1157,33,Body,Build,"Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)"
+1158,33,Body,SIM,· Nano-SIM + eSIM · Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)
+1159,33,Body,Other,IP67 dust/water resistant (up to 1m for 30 min)
+1160,33,Display,Type,"Super AMOLED, 120Hz, 1200 nits (HBM), 1900 nits (peak)"
+1161,33,Display,Size,"6.7 inches, 110.2 cm 2 (~86.5% screen-to-body ratio)"
+1162,33,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+1163,33,Display,Protection,Corning Gorilla Glass Victus+
+1164,33,Platform,OS,"Android 15, upgradable to Android 17, up to 6 major OS updates, One UI 9"
+1165,33,Platform,Chipset,Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)
+1166,33,Platform,CPU,Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)
+1167,33,Platform,GPU,Adreno 710
+1168,33,Memory,Card slot,No
+1169,33,Memory,Internal,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM, 256GB 12GB RAM"
+1170,33,Memory,Other,UFS 2.2
+1171,33,Main Camera,Triple,"50 MP, f/1.8, (wide), 1/1.96"", 0.8µm, PDAF, OIS 8 MP, f/2.2, 123˚, (ultrawide), 1/4.0"", 1.12µm 5 MP, f/2.4, (macro)"
+1172,33,Main Camera,Features,"LED flash, panorama, HDR"
+1173,33,Main Camera,Video,"4K@30fps, 1080p@30/60fps, gyro-EIS"
+1174,33,Selfie camera,Single,"12 MP, f/2.2, (wide)"
+1175,33,Selfie camera,Video,"4K@30fps, 1080p@30fps, 10-bit HDR"
+1176,33,Sound,Loudspeaker,"Yes, with stereo speakers"
+1177,33,Sound,3.5mm jack,No
+1178,33,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+1179,33,Comms,Bluetooth,"5.4, A2DP, LE"
+1180,33,Comms,Positioning,"GPS, GALILEO, GLONASS, BDS, QZSS"
+1181,33,Comms,NFC,Yes (market/region dependent)
+1182,33,Comms,Radio,No
+1183,33,Comms,USB,"USB Type-C 2.0, OTG"
+1184,33,Features,Sensors,"Fingerprint (under display, optical), accelerometer, gyro, compass"
+1185,33,Features,Other,Virtual Proximity Sensing
+1186,33,Battery,Type,5000 mAh
+1187,33,Battery,Charging,"45W wired, 66% in 30 min, 100% in 68 min"
+1188,33,Misc,Colors,"Lavender, Black, White, Lime"
+1189,33,Misc,Models,"SM-A366E, SM-A366E/DS, SM-A366B, SM-A366B/DS, SM-A366U, SM-A366U1, SM-A366W"
+1190,33,Misc,SAR,1.07 W/kg (head)
+1191,33,Misc,SAR EU,0.53 W/kg (head) 1.29 W/kg (body)
+1192,33,Misc,Price,"$ 212.10 / € 315.99 / £ 202.19 / ₹ 33,149"
+1193,33,Our Tests,Performance,AnTuTu: 613492 (v10) GeekBench: 2917 (v6) 3DMark: 912 (Wild Life Extreme)
+1194,33,Our Tests,Display,1233 nits max brightness (measured)
+1195,33,Our Tests,Loudspeaker,-26.2 LUFS (Good)
+1196,33,Our Tests,Battery,Active use score 11:38h
+1197,33,EU LABEL,Energy,Class C
+1198,33,EU LABEL,Battery,"41:28h endurance, 2000 cycles"
+1199,33,EU LABEL,Free fall,Class C (90 falls)
+1200,33,EU LABEL,Repairability,Class C
+1201,34,Network,Technology,GSM / HSPA / LTE / 5G
+1202,34,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1203,34,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1204,34,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66 - International"
+1205,34,Network,Other,"1, 2, 3, 4, 5, 7, 12, 13, 14, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA"
+1206,34,Network,5G bands,"1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - International"
+1207,34,Network,Other,"2, 5, 25, 41, 66, 71, 77, 78 SA/NSA/Sub6/mmWave - USA"
+1208,34,Network,Speed,"HSPA, LTE, 5G"
+1209,34,Launch,Announced,"2025, March 02"
+1210,34,Launch,Status,"Available. Released 2025, March 19"
+1211,34,Body,Dimensions,164 x 77.5 x 7.7 mm (6.46 x 3.05 x 0.30 in)
+1212,34,Body,Weight,200 g (7.05 oz)
+1213,34,Body,Build,"Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)"
+1214,34,Body,SIM,· Nano-SIM + eSIM · Nano-SIM + Nano-SIM
+1215,34,Body,Other,IP67 dust/water resistant (up to 1m for 30 min)
+1216,34,Display,Type,"Super AMOLED, 120Hz"
+1217,34,Display,Size,"6.7 inches, 110.2 cm 2 (~86.7% screen-to-body ratio)"
+1218,34,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+1219,34,Display,Protection,Corning Gorilla Glass Victus+
+1220,34,Platform,OS,"Android 15, up to 6 major OS updates, One UI 8.5"
+1221,34,Platform,Chipset,Exynos 1380 (5 nm) - Global Exynos 1280 (5 nm) - LATAM
+1222,34,Platform,CPU,Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55) - Global Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) - LATAM
+1223,34,Platform,GPU,Mali-G68 MP5 - Global Mali-G68 - LATAM
+1224,34,Memory,Card slot,microSDXC (uses shared SIM slot)
+1225,34,Memory,Internal,"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM"
+1226,34,Main Camera,Triple,"50 MP, f/1.8, 27mm (wide), 1/2.76"", 0.64µm, PDAF, OIS 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0"", 1.12µm 2 MP (macro)"
+1227,34,Main Camera,Features,"LED flash, panorama, HDR"
+1228,34,Main Camera,Video,"4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
+1229,34,Selfie camera,Single,"13 MP, f/2.2, (wide), 1/3.06"", 1.12µm"
+1230,34,Selfie camera,Video,1080p@30fps
+1231,34,Sound,Loudspeaker,Yes
+1232,34,Sound,3.5mm jack,No
+1233,34,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+1234,34,Comms,Bluetooth,"5.3, A2DP, LE"
+1235,34,Comms,Positioning,"GPS, GALILEO, GLONASS, BDS, QZSS"
+1236,34,Comms,NFC,Yes (market/region dependent)
+1237,34,Comms,Radio,Unspecified
+1238,34,Comms,USB,"USB Type-C 2.0, OTG"
+1239,34,Features,Sensors,"Fingerprint (side-mounted), accelerometer, gyro, compass"
+1240,34,Features,Other,Virtual proximity sensing
+1241,34,Battery,Type,5000 mAh
+1242,34,Battery,Charging,25W wired
+1243,34,Misc,Colors,"Black, White, Mint, Peach Pink"
+1244,34,Misc,Models,"SM-A266E, SM-A266E/DS, SM-A266E/DSN, SM-A266B, SM-A266B/DS, SM-A266B/DSN, SM-A266U, SM-A266U1, SM-A266W"
+1245,34,Misc,SAR,0.75 W/kg (head) 1.09 W/kg (body)
+1246,34,Misc,SAR EU,0.41 W/kg (head) 0.96 W/kg (body)
+1247,34,Misc,Price,$ 227.99 / € 273.64 / £ 189.00
+1248,34,Our Tests,Performance,AnTuTu: 579811 (v10) GeekBench: 2768 (v6) 3DMark: 794 (Wild Life Extreme)
+1249,34,Our Tests,Display,777 nits max brightness (measured)
+1250,34,Our Tests,Loudspeaker,-27.1 LUFS (Good)
+1251,34,Our Tests,Battery,Active use score 10:44h
+1252,34,EU LABEL,Energy,Class C
+1253,34,EU LABEL,Battery,"37:05h endurance, 1200 cycles"
+1254,34,EU LABEL,Free fall,Class B (269 falls)
+1255,34,EU LABEL,Repairability,Class C
+1256,35,Network,Technology,GSM / HSPA / LTE / 5G
+1257,35,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1258,35,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1259,35,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 25, 26, 28, 32, 38, 40, 41, 66"
+1260,35,Network,5G bands,"1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6"
+1261,35,Network,Speed,"HSPA, LTE, 5G"
+1262,35,Launch,Announced,"2026, March 25"
+1263,35,Launch,Status,"Available. Released 2026, April 9"
+1264,35,Body,Dimensions,161.5 x 76.8 x 6.9 mm (6.36 x 3.02 x 0.27 in)
+1265,35,Body,Weight,179 g (6.31 oz)
+1266,35,Body,Build,"Glass front (Gorilla Glass Victus+), aluminum frame, glass back (Gorilla Glass Victus+)"
+1267,35,Body,SIM,· Nano-SIM + eSIM · Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)
+1268,35,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)
+1269,35,Display,Type,"Super AMOLED+, 120Hz, HDR10+, 1200 nits (HBM), 1900 nits (peak)"
+1270,35,Display,Size,"6.7 inches, 110.2 cm 2 (~88.8% screen-to-body ratio)"
+1271,35,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+1272,35,Display,Protection,Corning Gorilla Glass Victus+
+1273,35,Platform,OS,"Android 16, up to 6 major OS updates, One UI 8.5"
+1274,35,Platform,Chipset,Exynos 1680 (4 nm)
+1275,35,Platform,CPU,Octa-core (1x2.9 GHz Cortex-720 & 4x2.6 GHz Cortex-720 & 3x1.95 GHz Cortex-520)
+1276,35,Platform,GPU,Xclipse 550
+1277,35,Memory,Card slot,No
+1278,35,Memory,Internal,"128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+1279,35,Memory,Other,UFS 3.1
+1280,35,Main Camera,Triple,"50 MP, f/1.8, (wide), 1/1.56"", 1.0µm, PDAF, OIS 12 MP, f/2.2, 13mm (ultrawide), 1/3.06"", 1.12µm 5 MP, f/2.4, (macro)"
+1281,35,Main Camera,Features,"Best Face, LED flash, panorama, HDR"
+1282,35,Main Camera,Video,"4K@30fps, 1080p@30/60fps, gyro-EIS"
+1283,35,Selfie camera,Single,"12 MP, f/2.2, (wide), 1/3.2"", 1.12µm"
+1284,35,Selfie camera,Video,"4K@30fps, 1080p@30fps, 10-bit HDR"
+1285,35,Sound,Loudspeaker,"Yes, with stereo speakers"
+1286,35,Sound,3.5mm jack,No
+1287,35,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band, Wi-Fi Direct"
+1288,35,Comms,Bluetooth,"6.0, A2DP, LE"
+1289,35,Comms,Positioning,"GPS, GALILEO, GLONASS, BDS, QZSS"
+1290,35,Comms,NFC,Yes (market/region dependent)
+1291,35,Comms,Radio,No
+1292,35,Comms,USB,"USB Type-C 2.0, OTG"
+1293,35,Features,Sensors,"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+1294,35,Battery,Type,5000 mAh
+1295,35,Battery,Charging,45W wired
+1296,35,Misc,Colors,"Navy, Gray, Icyblue, Lilac"
+1297,35,Misc,Models,"SM-A576B, SM-A576B/DS, SM-A576Q, SM-A576U1, SM-A576W, SM-A576Z, SM-A5760"
+1298,35,Misc,SAR,0.85 W/kg (head) 1.20 W/kg (body)
+1299,35,Misc,SAR EU,0.70 W/kg (head) 1.07 W/kg (body)
+1300,35,Misc,Price,"$ 365.00 / € 322.00 / £ 274.99 / ₹ 62,672"
+1301,35,Our Tests,Performance,"AnTuTu: 1001995 (v10), 1363464 (v11) GeekBench: 4411 (v6) 3DMark: 1742 (Wild Life Extreme)"
+1302,35,Our Tests,Display,1309 nits max brightness (measured)
+1303,35,Our Tests,Loudspeaker,-26.3 LUFS (Good)
+1304,35,Our Tests,Battery,Active use score 13:59h
+1305,35,EU LABEL,Energy,Class A
+1306,35,EU LABEL,Battery,"52:00h endurance, 1200 cycles"
+1307,35,EU LABEL,Free fall,Class A (270 falls)
+1308,35,EU LABEL,Repairability,Class C
+1309,36,Network,Technology,GSM / HSPA / LTE / 5G
+1310,36,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1311,36,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1312,36,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 66"
+1313,36,Network,5G bands,"1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - International"
+1314,36,Network,Other,"1, 3, 5, 7, 8, 26, 28, 40, 41, 66, 77, 78 SA/NSA/Sub6 - India"
+1315,36,Network,Other,SA/NSA/Sub6/mmWave - USA unlocked
+1316,36,Network,Speed,"HSPA, LTE, 5G"
+1317,36,Launch,Announced,"2025, August 06"
+1318,36,Launch,Status,"Available. Released 2025, August 14"
+1319,36,Body,Dimensions,164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in)
+1320,36,Body,Weight,192 g (6.77 oz)
+1321,36,Body,Build,"Glass front (Gorilla Glass Victus), plastic frame, glass-fiber reinforced plastic back"
+1322,36,Body,SIM,· Nano-SIM · Nano-SIM + eSIM · Nano-SIM + Nano-SIM
+1323,36,Body,Other,IP54 dust protected and water resistant (water splashes)
+1324,36,Display,Type,"Super AMOLED, 90Hz, 800 nits (HBM)"
+1325,36,Display,Size,"6.7 inches, 110.2 cm 2 (~86.0% screen-to-body ratio)"
+1326,36,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)"
+1327,36,Display,Protection,Corning Gorilla Glass Victus
+1328,36,Platform,OS,"Android 15, up to 6 major OS updates, One UI 8.5"
+1329,36,Platform,Chipset,Exynos 1330 (5 nm)
+1330,36,Platform,CPU,Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
+1331,36,Platform,GPU,Mali-G68 MP2
+1332,36,Memory,Card slot,microSDXC (uses shared SIM slot)
+1333,36,Memory,Internal,"128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 4GB RAM, 256GB 8GB RAM"
+1334,36,Main Camera,Triple,"50 MP, f/1.8, (wide), 1/2.76"", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0"", 1.12µm 2 MP (macro)"
+1335,36,Main Camera,Features,"LED flash, panorama, HDR"
+1336,36,Main Camera,Video,"1080p@30fps, gyro-EIS"
+1337,36,Selfie camera,Single,"13 MP, f/2.0, (wide), 1/3.1"", 1.12µm"
+1338,36,Selfie camera,Video,1080p@30fps
+1339,36,Sound,Loudspeaker,Yes
+1340,36,Sound,3.5mm jack,No
+1341,36,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+1342,36,Comms,Bluetooth,"5.3, A2DP, LE"
+1343,36,Comms,Positioning,"GPS, GALILEO, GLONASS, BDS, QZSS"
+1344,36,Comms,NFC,Yes (market/region dependent)
+1345,36,Comms,Radio,No
+1346,36,Comms,USB,USB Type-C 2.0
+1347,36,Features,Sensors,"Fingerprint (side-mounted), accelerometer, gyro, compass"
+1348,36,Features,Other,Virtual proximity sensing
+1349,36,Battery,Type,5000 mAh
+1350,36,Battery,Charging,25W wired
+1351,36,Misc,Colors,"Black, Gray, Blue"
+1352,36,Misc,Models,"SM-A176B, SM-A176B/DS"
+1353,36,Misc,SAR EU,0.67 W/kg (head) 0.97 W/kg (body)
+1354,36,Misc,Price,"$ 175.65 / € 179.00 / £ 154.89 / ₹ 22,699"
+1355,36,Our Tests,Performance,AnTuTu: 435787 (v10) GeekBench: 2048 (v6) 3DMark: 365 (Wild Life Extreme)
+1356,36,Our Tests,Display,738 nits max brightness (measured)
+1357,36,Our Tests,Loudspeaker,-26.4 LUFS (Good)
+1358,36,Our Tests,Battery,Active use score 11:48h
+1359,36,EU LABEL,Energy,Class B
+1360,36,EU LABEL,Battery,"43:52h endurance, 1200 cycles"
+1361,36,EU LABEL,Free fall,Class B (180 falls)
+1362,36,EU LABEL,Repairability,Class C
+1363,37,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+1364,37,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1365,37,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+1366,37,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1367,37,Network,Other,CDMA2000 1xEV-DO
+1368,37,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+1369,37,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - USA"
+1370,37,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+1371,37,Network,Other,"1, 3, 5, 7, 8, 20, 28, 38, 41, 66, 71, 260, 261 SA/NSA/Sub6/mmWave - USA"
+1372,37,Network,Speed,"HSPA 42.2/5.76 Mbps, LTE (7CA) Cat20 2000/200 Mbps, 5G (5+ Gbps DL)"
+1373,37,Launch,Announced,"2022, February 09"
+1374,37,Launch,Status,"Available. Released 2022, February 25"
+1375,37,Body,Dimensions,146 x 70.6 x 7.6 mm (5.75 x 2.78 x 0.30 in)
+1376,37,Body,Weight,167 g / 168 g (mmWave) (5.89 oz)
+1377,37,Body,Build,"Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame"
+1378,37,Body,SIM,Nano-SIM + eSIM · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)
+1379,37,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Armor Aluminum
+1380,37,Display,Type,"Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak)"
+1381,37,Display,Size,"6.1 inches, 90.1 cm 2 (~87.4% screen-to-body ratio)"
+1382,37,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~425 ppi density)"
+1383,37,Display,Protection,Corning Gorilla Glass Victus+
+1384,37,Platform,OS,"Android 12, up to 4 major OS updates, One UI 8"
+1385,37,Platform,Chipset,Exynos 2200 (4 nm) - Europe Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - ROW
+1386,37,Platform,CPU,Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - Europe Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) - ROW
+1387,37,Platform,GPU,Xclipse 920 - Europe Adreno 730 - ROW
+1388,37,Memory,Card slot,No
+1389,37,Memory,Internal,"128GB 8GB RAM, 256GB 8GB RAM"
+1390,37,Memory,Other,UFS 3.1
+1391,37,Main Camera,Triple,"50 MP, f/1.8, 23mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 70mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video"
+1392,37,Main Camera,Features,"LED flash, auto-HDR, panorama"
+1393,37,Main Camera,Video,"8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+, stereo sound rec., gyro-EIS"
+1394,37,Selfie camera,Single,"10 MP, f/2.2, 26mm (wide), 1/3.24"", 1.22µm, dual pixel PDAF"
+1395,37,Selfie camera,Features,HDR
+1396,37,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+1397,37,Sound,Loudspeaker,"Yes, with stereo speakers"
+1398,37,Sound,3.5mm jack,No
+1399,37,Sound,Other,High-bitrate audio support
+1400,37,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+1401,37,Comms,Bluetooth,"5.2, A2DP, LE"
+1402,37,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO"
+1403,37,Comms,NFC,Yes
+1404,37,Comms,Radio,No
+1405,37,Comms,USB,"USB Type-C 3.2, OTG"
+1406,37,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+1407,37,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+1408,37,Battery,Type,Li-Ion 3700 mAh
+1409,37,Battery,Charging,"25W wired, PD3.0 15W wireless (Qi) 4.5W reverse wireless"
+1410,37,Misc,Colors,"Phantom Black, White, Pink Gold, Green, Graphite, Sky Blue, Violet, Cream, Bora Purple"
+1411,37,Misc,Models,"SM-S901B, SM-S901B/DS, SM-S901U, SM-S901U1, SM-S901W, SM-S901N, SM-S9010, SM-S901E, SM-S901E/DS"
+1412,37,Misc,SAR,1.03 W/kg (head) 1.15 W/kg (body)
+1413,37,Misc,SAR EU,1.21 W/kg (head) 1.59 W/kg (body)
+1414,37,Misc,Price,$ 198.50 / € 237.14 / £ 189.00
+1415,37,Our Tests,Performance,"AnTuTu: 745496 (v8), 881428 (v9) GeekBench: 3682 (v5.1) GFXBench: 69fps (ES 3.1 onscreen)"
+1416,37,Our Tests,Display,982 nits max brightness (measured)
+1417,37,Our Tests,Camera,Photo / Video
+1418,37,Our Tests,Loudspeaker,-26.4 LUFS (Good)
+1419,37,Our Tests,Battery (old),Endurance rating 85h
+680,25,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+681,25,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+682,25,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+683,25,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+684,25,Network,Other,CDMA2000 1xEV-DO
+685,25,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+686,25,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 20, 25, 26, 28, 38, 39, 40, 41, 46, 48, 66, 71 - USA"
+687,25,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+688,25,Network,Other,"1, 7, 25, 28, 41, 66, 71, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - USA"
+689,25,Network,Speed,"HSPA, LTE (CA), 5G"
+690,25,Launch,Announced,"2023, February 01"
+691,25,Launch,Status,"Available. Released 2023, February 17"
+692,25,Body,Dimensions,146.3 x 70.9 x 7.6 mm (5.76 x 2.79 x 0.30 in)
+693,25,Body,Weight,168 g (5.93 oz)
+694,25,Body,Build,"Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+695,25,Body,SIM,· Nano-SIM + eSIM · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)
+696,25,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Armor Aluminum
+697,25,Display,Type,"Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (HBM), 1750 nits (peak)"
+698,25,Display,Size,"6.1 inches, 90.1 cm 2 (~86.8% screen-to-body ratio)"
+699,25,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~425 ppi density)"
+700,25,Display,Protection,Corning Gorilla Glass Victus 2
+701,25,Platform,OS,"Android 13, up to 4 major OS updates, One UI 8.5"
+702,25,Platform,Chipset,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)
+703,25,Platform,CPU,Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)
+704,25,Platform,GPU,Adreno 740
+705,25,Memory,Card slot,No
+706,25,Memory,Internal,"128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM"
+707,25,Memory,Other,UFS 3.1 - 128GB only UFS 4.0
+708,25,Main Camera,Triple,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 70mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video"
+709,25,Main Camera,Features,"LED flash, auto-HDR, panorama"
+710,25,Main Camera,Video,"8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+, stereo sound rec., gyro-EIS"
+711,25,Selfie camera,Single,"12 MP, f/2.2, 26mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+712,25,Selfie camera,Features,"HDR, HDR10+"
+713,25,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+714,25,Sound,Loudspeaker,"Yes, with stereo speakers"
+715,25,Sound,3.5mm jack,No
+716,25,Sound,Other,High-bitrate audio support
+717,25,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+718,25,Comms,Bluetooth,"5.3, A2DP, LE"
+719,25,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO"
+720,25,Comms,NFC,Yes
+721,25,Comms,Radio,No
+722,25,Comms,USB,"USB Type-C 3.2, OTG"
+723,25,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+724,25,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+725,25,Battery,Type,Li-Ion 3900 mAh
+726,25,Battery,Charging,"25W wired, PD3.0, 50% in 30 min 15W wireless (Qi) 4.5W reverse wireless"
+727,25,Misc,Colors,"Phantom Black, Cream, Green, Lavender, Graphite, Lime"
+728,25,Misc,Models,"SM-S911B, SM-S911B/DS, SM-S911U, SM-S911U1, SM-S911W, SM-S911N, SM-S9110, SM-S911E, SM-S911E/DS"
+729,25,Misc,SAR,0.95 W/kg (head) 0.88 W/kg (body)
+730,25,Misc,SAR EU,0.96 W/kg (head) 1.30 W/kg (body)
+731,25,Misc,Price,$ 230.61 / € 292.99 / £ 242.99
+732,25,Our Tests,Performance,AnTuTu: 1231075 (v9) GeekBench: 4950 (v5.1) GFXBench: 110fps (ES 3.1 onscreen)
+733,25,Our Tests,Display,1198 nits max brightness (measured)
+734,25,Our Tests,Camera,Photo / Video
+735,25,Our Tests,Loudspeaker,-27.0 LUFS (Good)
+736,25,Our Tests,Battery,Active use score 11:27h
+737,25,Our Tests,Battery (old),Endurance rating 101h
+738,26,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+739,26,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+740,26,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+741,26,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+742,26,Network,Other,CDMA2000 1xEV-DO
+743,26,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+744,26,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 29, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71 - USA"
+745,26,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+746,26,Network,Other,"1, 7, 28, 41, 66, 71, 78, 258, 260, 261 SA/NSA/Sub6/mmWave - USA"
+747,26,Network,Speed,"HSPA, LTE (CA), 5G"
+748,26,Launch,Announced,"2023, February 01"
+749,26,Launch,Status,"Available. Released 2023, February 17"
+750,26,Body,Dimensions,157.8 x 76.2 x 7.6 mm (6.21 x 3.00 x 0.30 in)
+751,26,Body,Weight,196 g (6.91 oz)
+752,26,Body,Build,"Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+753,26,Body,SIM,· Nano-SIM + eSIM · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)
+754,26,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Armor Aluminum
+755,26,Display,Type,"Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (HBM), 1750 nits (peak)"
+756,26,Display,Size,"6.6 inches, 105.3 cm 2 (~87.6% screen-to-body ratio)"
+757,26,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~393 ppi density)"
+758,26,Display,Protection,Corning Gorilla Glass Victus 2
+759,26,Platform,OS,"Android 13, upgradable to Android 17, up to 4 major OS updates, One UI 9.0"
+760,26,Platform,Chipset,Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)
+761,26,Platform,CPU,Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)
+762,26,Platform,GPU,Adreno 740
+763,26,Memory,Card slot,No
+764,26,Memory,Internal,"256GB 8GB RAM, 512GB 8GB RAM"
+765,26,Memory,Other,UFS 4.0
+766,26,Main Camera,Triple,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 70mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video"
+767,26,Main Camera,Features,"LED flash, auto-HDR, panorama"
+768,26,Main Camera,Video,"8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+, stereo sound rec., gyro-EIS"
+769,26,Selfie camera,Single,"12 MP, f/2.2, 26mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+770,26,Selfie camera,Features,"HDR, HDR10+"
+771,26,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+772,26,Sound,Loudspeaker,"Yes, with stereo speakers"
+773,26,Sound,3.5mm jack,No
+774,26,Sound,Other,High-bitrate audio support
+775,26,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+776,26,Comms,Bluetooth,"5.3, A2DP, LE"
+777,26,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO"
+778,26,Comms,NFC,Yes
+779,26,Comms,Radio,No
+780,26,Comms,USB,"USB Type-C 3.2, OTG"
+781,26,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+782,26,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support) Ultra Wideband (UWB) support"
+783,26,Battery,Type,Li-Ion 4700 mAh
+784,26,Battery,Charging,"45W wired, PD3.0, 65% in 30 min 15W wireless (Qi) 4.5W reverse wireless"
+785,26,Misc,Colors,"Phantom Black, Cream, Green, Lavender, Graphite, Lime"
+786,26,Misc,Models,"SM-S916B, SM-S916B/DS, SM-S916U, SM-S916U1, SM-S916W, SM-S916N, SM-S9160, SM-S916E, SM-S916E/DS"
+787,26,Misc,SAR,0.95 W/kg (head) 1.04 W/kg (body)
+788,26,Misc,SAR EU,0.77 W/kg (head) 1.45 W/kg (body)
+789,26,Misc,Price,$ 289.12 / € 327.43 / £ 361.00
+790,26,Our Tests,Performance,AnTuTu: 1234077 (v9) GeekBench: 5073 (v5.1) GFXBench: 110fps (ES 3.1 onscreen)
+791,26,Our Tests,Display,1205 nits max brightness (measured)
+792,26,Our Tests,Camera,Photo / Video
+793,26,Our Tests,Loudspeaker,-26.5 LUFS (Good)
+794,26,Our Tests,Battery,Active use score 13:51h
+795,26,Our Tests,Battery (old),Endurance rating 111h
+796,27,Network,Technology,GSM / HSPA / LTE / 5G
+797,27,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+798,27,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+799,27,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 26, 28, 38, 40, 41, 66 - International"
+800,27,Network,5G bands,"1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6 - International"
+801,27,Network,Speed,"HSPA, LTE, 5G"
+802,27,Launch,Announced,"2023, October 04"
+803,27,Launch,Status,"Available. Released 2023, October 05"
+804,27,Body,Dimensions,158 x 76.5 x 8.2 mm (6.22 x 3.01 x 0.32 in)
+805,27,Body,Weight,209 g (7.37 oz)
+806,27,Body,Build,"Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame"
+807,27,Body,SIM,· Nano-SIM · Nano-SIM + Nano-SIM · Nano-SIM + Nano-SIM + eSIM (max 2 at a time)
+808,27,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)
+809,27,Display,Type,"Dynamic AMOLED 2X, 120Hz, HDR10+, 1450 nits (peak)"
+810,27,Display,Size,"6.4 inches, 100.5 cm 2 (~83.2% screen-to-body ratio)"
+811,27,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)"
+812,27,Display,Protection,Corning Gorilla Glass 5
+813,27,Platform,OS,"Android 13, up to 4 major OS updates, One UI 8"
+814,27,Platform,Chipset,Exynos 2200 (4 nm) - International Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - USA
+815,27,Platform,CPU,Octa-core (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510) - International Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) - USA
+816,27,Platform,GPU,Xclipse 920 - International Adreno 730 - USA
+817,27,Memory,Card slot,No
+818,27,Memory,Internal,"128GB 8GB RAM, 256GB 8GB RAM"
+819,27,Main Camera,Triple,"50 MP, f/1.8, 23mm (wide), 1/1.57"", 1.0µm, dual pixel PDAF, OIS 8 MP, f/2.4, 76mm (telephoto), 1/4.5"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0"", 1.12µm"
+820,27,Main Camera,Features,"LED flash, HDR, panorama"
+821,27,Main Camera,Video,"8K@24fps, 4K@30/60fps, 1080p@30/60/120/240fps"
+822,27,Selfie camera,Single,"10 MP, f/2.4, 25mm (wide), 1/3.0"", 1.22µm"
+823,27,Selfie camera,Video,"4K@30/60fps, 1080p@30/60fps; gyro-EIS"
+824,27,Sound,Loudspeaker,"Yes, with stereo speakers"
+825,27,Sound,3.5mm jack,No
+826,27,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+827,27,Comms,Bluetooth,"5.3, A2DP, LE"
+828,27,Comms,Positioning,"GPS, GLONASS, GALILEO, BDS"
+829,27,Comms,NFC,Yes
+830,27,Comms,Radio,Unspecified
+831,27,Comms,USB,"USB Type-C 3.2, OTG"
+832,27,Features,Sensors,"Fingerprint (under display, optical), accelerometer, gyro, compass"
+833,27,Features,Other,Virtual proximity sensing Samsung DeX (desktop experience support)
+834,27,Battery,Type,Li-Ion 4500 mAh
+835,27,Battery,Charging,"25W wired, PD3.0, 50% in 30 min 15W wireless Reverse wireless"
+836,27,Misc,Colors,"Mint, Cream, Graphite, Purple, Indigo, Tangerine"
+837,27,Misc,Models,"SM-S711B, SM-S711B/DS, SM-S711U1, SM-S711U, SM-S711W, SM-S7110, SM-S711N"
+838,27,Misc,SAR,0.80 W/kg (head) 0.72 W/kg (body)
+839,27,Misc,SAR EU,0.76 W/kg (head) 1.04 W/kg (body)
+840,27,Misc,Price,$ 170.19 / € 242.99 / £ 205.00
+841,27,Our Tests,Performance,AnTuTu: 940921 (v9) | 1129280 (v10) GeekBench: 3550 (v5.1) | 3946 (v6) GFXBench: 79fps (ES 3.1 onscreen)
+842,27,Our Tests,Display,985 nits max brightness (measured)
+843,27,Our Tests,Camera,Photo / Video
+844,27,Our Tests,Loudspeaker,-23.7 LUFS (Very good)
+845,27,Our Tests,Battery,Active use score 8:28h
+846,28,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+847,28,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+848,28,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+849,28,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+850,28,Network,Other,CDMA2000 1xEV-DO
+851,28,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+852,28,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA"
+853,28,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+854,28,Network,Other,"1, 7, 25, 28, 41, 66, 71, 78, 257, 258, 260, 261 SA/NSA/Sub6/mmWave - USA"
+855,28,Network,Speed,"HSPA, LTE (CA), 5G"
+856,28,Launch,Announced,"2024, January 17"
+857,28,Launch,Status,"Available. Released 2024, January 24"
+858,28,Body,Dimensions,147 x 70.6 x 7.6 mm (5.79 x 2.78 x 0.30 in)
+859,28,Body,Weight,167 g or 168 g (5.89 oz)
+860,28,Body,Build,"Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+861,28,Body,SIM,· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT · Nano-SIM + eSIM + eSIM (max 2 at a time) - USA · Nano-SIM + Nano-SIM - CN
+862,28,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Armor Aluminum 2
+863,28,Display,Type,"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)"
+864,28,Display,Size,"6.2 inches, 94.4 cm 2 (~90.9% screen-to-body ratio)"
+865,28,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~416 ppi density)"
+866,28,Display,Protection,Corning Gorilla Glass Victus 2
+867,28,Platform,OS,"Android 14, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+868,28,Platform,Chipset,Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm) - USA/Canada/China Exynos 2400 (4 nm) - International
+869,28,Platform,CPU,8-core (1x3.39GHz Cortex-X4 & 3x3.1GHz Cortex-A720 & 2x2.9GHz Cortex-A720 & 2x2.2GHz Cortex-A520) 10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)
+870,28,Platform,GPU,Adreno 750 (1 GHz) - USA/Canada/China Xclipse 940 - International
+871,28,Memory,Card slot,No
+872,28,Memory,Internal,"128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAM, 512GB 8GB RAM"
+873,28,Memory,Other,UFS 3.1 - 128GB only UFS 4.0
+874,28,Main Camera,Triple,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video"
+875,28,Main Camera,Features,"LED flash, auto-HDR, panorama"
+876,28,Main Camera,Video,"8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, HDR10+, stereo sound rec., gyro-EIS"
+877,28,Selfie camera,Single,"12 MP, f/2.2, 26mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+878,28,Selfie camera,Features,"HDR, HDR10+"
+879,28,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+880,28,Sound,Loudspeaker,"Yes, with stereo speakers"
+881,28,Sound,3.5mm jack,No
+882,28,Sound,Other,High-bitrate audio support
+883,28,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+884,28,Comms,Bluetooth,"5.3, A2DP, LE"
+885,28,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO, QZSS"
+886,28,Comms,NFC,Yes
+887,28,Comms,Radio,No
+888,28,Comms,USB,"USB Type-C 3.2, DisplayPort 1.2, OTG"
+889,28,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+890,28,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+891,28,Battery,Type,Li-Ion 4000 mAh
+892,28,Battery,Charging,"25W wired, PD3.0, 50% in 30 min 15W wireless (Qi) 4.5W reverse wireless"
+893,28,Misc,Colors,"Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow, Jade Green, Sandstone Orange, Sapphire Blue"
+894,28,Misc,Models,"SM-S921B, SM-S921B/DS, SM-S921U, SM-S921U1, SM-S921W, SM-S921N, SM-S9210, SM-S921E, SM-S921E/DS"
+895,28,Misc,SAR,1.23 W/kg (head) 1.10 W/kg (body)
+896,28,Misc,SAR EU,0.87 W/kg (head) 1.35 W/kg (body)
+897,28,Misc,Price,"$ 274.46 / € 385.00 / £ 299.00 / ₹ 54,999"
+898,28,Our Tests,Performance,"AnTuTu: 1218977 (v9), 1696727 (v10) GeekBench: 5833 (v5), 6747 (v6) 3DMark: 4183 (Wild Life Extreme)"
+899,28,Our Tests,Display,1401 nits max brightness (measured)
+900,28,Our Tests,Camera,Photo / Video
+901,28,Our Tests,Loudspeaker,-25.2 LUFS (Very good)
+902,28,Our Tests,Battery,Active use score 12:06h
+903,29,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+904,29,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+905,29,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+906,29,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+907,29,Network,Other,CDMA2000 1xEV-DO
+984,30,Display,Other,DX anti-reflective coating
+908,29,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+909,29,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA unlocked"
+910,29,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+911,29,Network,Other,"1, 2, 5, 7, 25, 28, 41, 66, 71, 77, 78, 257, 258, 260, 261 SA/NSA/Sub6/mmWave - USA unlocked"
+912,29,Network,Speed,"HSPA, LTE (CA), 5G"
+913,29,Launch,Announced,"2025, January 22"
+914,29,Launch,Status,"Available. Released 2025, February 03"
+915,29,Body,Dimensions,146.9 x 70.5 x 7.2 mm (5.78 x 2.78 x 0.28 in)
+916,29,Body,Weight,162 g (5.71 oz)
+917,29,Body,Build,"Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+918,29,Body,SIM,· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT · Nano-SIM + eSIM + eSIM (max 2 at a time) - USA · Nano-SIM + Nano-SIM - CN
+919,29,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Armor Aluminum 2
+920,29,Display,Type,"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)"
+921,29,Display,Size,"6.2 inches, 94.4 cm 2 (~91.1% screen-to-body ratio)"
+922,29,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~416 ppi density)"
+923,29,Display,Protection,Corning Gorilla Glass Victus 2
+924,29,Platform,OS,"Android 15, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+925,29,Platform,Chipset,Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm)
+926,29,Platform,CPU,Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)
+927,29,Platform,GPU,Adreno 830 (1200 MHz)
+928,29,Memory,Card slot,No
+929,29,Memory,Internal,"128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+930,29,Memory,Other,UFS 3.1 - 128GB only UFS 4.0
+931,29,Main Camera,Triple,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video"
+932,29,Main Camera,Features,"Best Face, LED flash, auto-HDR, panorama"
+933,29,Main Camera,Video,"8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+934,29,Selfie camera,Single,"12 MP, f/2.2, 26mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+935,29,Selfie camera,Features,"HDR, HDR10+"
+936,29,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+937,29,Sound,Loudspeaker,"Yes, with stereo speakers"
+938,29,Sound,3.5mm jack,No
+939,29,Sound,Other,High-bitrate audio support
+940,29,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+941,29,Comms,Bluetooth,"5.4, A2DP, LE"
+942,29,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO, QZSS"
+943,29,Comms,NFC,Yes
+944,29,Comms,Radio,No
+945,29,Comms,USB,"USB Type-C 3.2, DisplayPort 1.2, OTG"
+946,29,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+947,29,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+948,29,Battery,Type,Li-Ion 4000 mAh
+949,29,Battery,Charging,"25W wired, PD3.0, 50% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
+950,29,Misc,Colors,"Icy Blue, Mint, Navy, Silver Shadow, Pink Gold, Coral Red, Blue Black"
+951,29,Misc,Models,"SM-S931B, SM-S931B/DS, SM-S931U, SM-S931U1, SM-S931W, SM-S931N, SM-S9310, SM-S931E, SM-S931E/DS"
+952,29,Misc,SAR,1.13 W/kg (head) 0.92 W/kg (body)
+953,29,Misc,SAR EU,1.29 W/kg (head) 1.36 W/kg (body)
+954,29,Misc,Price,"$ 374.70 / € 490.00 / £ 399.00 / ₹ 57,999"
+955,29,Our Tests,Performance,AnTuTu: 2193701 (v10) GeekBench: 10050 (v6) 3DMark: 6755 (Wild Life Extreme)
+956,29,Our Tests,Display,1395 nits max brightness (measured)
+957,29,Our Tests,Loudspeaker,-26.1 LUFS (Good)
+958,29,Our Tests,Battery,Active use score 13:09h
+959,29,EU LABEL,Energy,Class B
+960,29,EU LABEL,Battery,"37:16h endurance, 2000 cycles"
+961,29,EU LABEL,Free fall,Class A (270 falls)
+962,29,EU LABEL,Repairability,Class C
+963,30,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+964,30,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+965,30,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+966,30,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+967,30,Network,Other,CDMA2000 1xEV-DO
+968,30,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+969,30,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA unlocked"
+970,30,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+971,30,Network,Other,"1, 2, 5, 7, 25, 28, 41, 66, 71, 77, 78, 257, 258, 260, 261 SA/NSA/Sub6/mmWave - USA unlocked"
+972,30,Network,Speed,"HSPA, LTE (CA), 5G"
+973,30,Launch,Announced,"2025, January 22"
+974,30,Launch,Status,"Available. Released 2025, February 03"
+975,30,Body,Dimensions,162.8 x 77.6 x 8.2 mm (6.41 x 3.06 x 0.32 in)
+976,30,Body,Weight,218 g (7.69 oz)
+977,30,Body,Build,"Glass front (Corning Gorilla Armor 2), glass back (Gorilla Glass Victus 2), titanium frame (grade 5)"
+978,30,Body,SIM,· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT · Nano-SIM + eSIM + eSIM (max 2 at a time) - USA · Nano-SIM + Nano-SIM - CN
+979,30,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Stylus
+980,30,Display,Type,"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)"
+981,30,Display,Size,"6.9 inches, 116.9 cm 2 (~92.5% screen-to-body ratio)"
+982,30,Display,Resolution,"1440 x 3120 pixels, 19.5:9 ratio (~498 ppi density)"
+983,30,Display,Protection,Corning Gorilla Armor 2
+1059,31,Sound,3.5mm jack,No
+985,30,Platform,OS,"Android 15, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+986,30,Platform,Chipset,Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm)
+987,30,Platform,CPU,Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)
+988,30,Platform,GPU,Adreno 830 (1200 MHz)
+989,30,Memory,Card slot,No
+990,30,Memory,Internal,"256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM, 1TB 16GB RAM"
+991,30,Memory,Other,UFS 4.0
+992,30,Main Camera,Quad,"200 MP, f/1.7, 24mm (wide), 1/1.3"", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.52"", 1.12µm, PDAF, OIS, 3x optical zoom 50 MP, f/3.4, 111mm (periscope telephoto), 1/2.52"", 0.7µm, PDAF, OIS, 5x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.5"", 0.7µm, dual pixel PDAF, Super Steady video"
+993,30,Main Camera,Features,"Laser AF, Best Face, LED flash, auto-HDR, panorama"
+994,30,Main Camera,Video,"8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+995,30,Selfie camera,Single,"12 MP, f/2.2, 26mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+996,30,Selfie camera,Features,"HDR, HDR10+"
+997,30,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+998,30,Sound,Loudspeaker,"Yes, with stereo speakers"
+999,30,Sound,3.5mm jack,No
+1000,30,Sound,Other,High-bitrate audio support
+1001,30,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+1002,30,Comms,Bluetooth,"5.4, A2DP, LE"
+1003,30,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO, QZSS"
+1004,30,Comms,NFC,Yes
+1005,30,Comms,Radio,No
+1006,30,Comms,USB,"USB Type-C 3.2, DisplayPort 1.2, OTG"
+1007,30,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+1008,30,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support) Ultra Wideband (UWB) support"
+1009,30,Battery,Type,Li-Ion 5000 mAh
+1010,30,Battery,Charging,"45W wired, PD3.0, 65% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
+1011,30,Misc,Colors,"Titanium Silver Blue, Titanium Black, Titanium White Silver, Titanium Gray, Titanium Jade Green, Titanium Jet Black, Titanium Pink Gold"
+1012,30,Misc,Models,"SM-S938B, SM-S938B/DS, SM-S938U, SM-S938U1, SM-S938W, SM-S938N, SM-S9380, SM-S938E, SM-S938E/DS"
+1013,30,Misc,SAR,1.26 W/kg (head) 0.64 W/kg (body)
+1014,30,Misc,SAR EU,1.25 W/kg (head) 1.42 W/kg (body)
+1015,30,Misc,Price,"$ 582.61 / € 695.00 / £ 618.00 / ₹ 114,999"
+1016,30,Our Tests,Performance,AnTuTu: 2207809 (v10) GeekBench: 9846 (v6) 3DMark: 6687 (Wild Life Extreme)
+1017,30,Our Tests,Display,1417 nits max brightness (measured)
+1018,30,Our Tests,Loudspeaker,-24.6 LUFS (Very good)
+1019,30,Our Tests,Battery,Active use score 14:49h
+1020,30,EU LABEL,Energy,Class B
+1021,30,EU LABEL,Battery,"44:54h endurance, 2000 cycles"
+1022,30,EU LABEL,Free fall,Class A (270 falls)
+1023,30,EU LABEL,Repairability,Class C
+1024,31,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+1025,31,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1026,31,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+1027,31,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1028,31,Network,Other,CDMA2000 1xEV-DO
+1029,31,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+1030,31,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA unlocked"
+1031,31,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+1032,31,Network,Other,"1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 41, 66, 71, 77, 78 SA/NSA/Sub6 - USA unlocked"
+1033,31,Network,Speed,"HSPA, LTE (CA), 5G"
+1034,31,Launch,Announced,"2026, February 25"
+1035,31,Launch,Status,"Available. Released 2026, March 06"
+1036,31,Body,Dimensions,149.6 x 71.7 x 7.2 mm (5.89 x 2.82 x 0.28 in)
+1037,31,Body,Weight,167 g (5.89 oz)
+1038,31,Body,Build,"Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+1039,31,Body,SIM,· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT · Nano-SIM + eSIM + eSIM (max 2 at a time) - USA · Nano-SIM + Nano-SIM - CN
+1040,31,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Armor Aluminum 2
+1041,31,Display,Type,"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)"
+1042,31,Display,Size,"6.3 inches, 96.5 cm 2 (~90.0% screen-to-body ratio)"
+1043,31,Display,Resolution,"1080 x 2340 pixels, 19.5:9 ratio (~411 ppi density)"
+1044,31,Display,Protection,Corning Gorilla Glass Victus 2
+1045,31,Platform,OS,"Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+1046,31,Platform,Chipset,Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CN Exynos 2600 (2 nm) - ROW
+1047,31,Platform,CPU,Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN 10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW
+1048,31,Platform,GPU,Adreno 840 (1.3GHz) - US/CA/CN Xclipse 960 - ROW
+1049,31,Memory,Card slot,No
+1050,31,Memory,Internal,"128GB 12GB RAM, 256GB 12GB RAM, 512GB 12GB RAM"
+1051,31,Memory,Other,UFS 4.X
+1052,31,Main Camera,Triple,"50 MP, f/1.8, 24mm (wide), 1/1.56"", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55"" 1.4µm, Super Steady video"
+1053,31,Main Camera,Features,"Best Face, Horizon Lock, LED flash, auto-HDR, panorama"
+1054,31,Main Camera,Video,"8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+1055,31,Selfie camera,Single,"12 MP, f/2.2, 23mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+1056,31,Selfie camera,Features,HDR
+1057,31,Selfie camera,Video,"4K@30/60fps, 1080p@30fps, HDR10+"
+1058,31,Sound,Loudspeaker,"Yes, with stereo speakers"
+1060,31,Sound,Other,High-bitrate audio support
+1061,31,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+1062,31,Comms,Bluetooth,"5.4, A2DP, LE"
+1063,31,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO, QZSS"
+1064,31,Comms,NFC,Yes
+1065,31,Comms,Radio,No
+1066,31,Comms,USB,"USB Type-C 3.2, DisplayPort 1.2, OTG"
+1067,31,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+1068,31,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support)"
+1069,31,Battery,Type,Li-Ion 4300 mAh
+1070,31,Battery,Charging,"25W wired, PD3.0, 55% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
+1071,31,Misc,Colors,"Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
+1072,31,Misc,Models,"SM-S942B, SM-S942B/DS, SM-S942U, SM-S942U1, SM-S942W, SM-S942N, SM-S9420, SM-S942E, SM-S942E/DS"
+1073,31,Misc,SAR,1.19 W/kg (head) 1.20 W/kg (body)
+1074,31,Misc,SAR EU,1.21 W/kg (head) 1.10 W/kg (body)
+1075,31,Misc,Price,"$ 475.36 / € 629.00 / £ 582.98 / ₹ 87,999"
+1076,31,Our Tests,Performance,"AnTuTu: 2441481 (v10), 3064672 (v11) GeekBench: 10824 (v6) 3DMark: 7230 (Wild Life Extreme)"
+1077,31,Our Tests,Display,1383 nits max brightness (measured)
+1078,31,Our Tests,Loudspeaker,-26.7 LUFS (Good)
+1079,31,Our Tests,Battery,Active use score 15:20h
+1080,31,EU LABEL,Energy,Class A
+1081,31,EU LABEL,Battery,"51:00h endurance, 1200 cycles"
+1082,31,EU LABEL,Free fall,Class A (270 falls)
+1083,31,EU LABEL,Repairability,Class C
+1084,32,Network,Technology,GSM / CDMA / HSPA / EVDO / LTE / 5G
+1085,32,Network,2G bands,GSM 850 / 900 / 1800 / 1900
+1086,32,Network,Other,CDMA 800 / 1900 & TD-SCDMA
+1087,32,Network,3G bands,HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+1088,32,Network,Other,CDMA2000 1xEV-DO
+1089,32,Network,4G bands,"1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 66 - International"
+1090,32,Network,Other,"1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 48, 66, 71 - USA unlocked"
+1091,32,Network,5G bands,"1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 75, 77, 78 SA/NSA/Sub6 - International"
+1092,32,Network,Other,"1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 41, 66, 71, 77, 78, 257, 258, 260, 261 SA/NSA/Sub6/mmWave - USA unlocked"
+1093,32,Network,Speed,"HSPA, LTE (CA), 5G"
+1094,32,Launch,Announced,"2026, February 25"
+1095,32,Launch,Status,"Available. Released 2026, March 06"
+1096,32,Body,Dimensions,163.6 x 78.1 x 7.9 mm (6.44 x 3.07 x 0.31 in)
+1097,32,Body,Weight,214 g (7.55 oz)
+1098,32,Body,Build,"Glass front (Corning Gorilla Armor 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+1099,32,Body,SIM,· Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT · Nano-SIM + eSIM + eSIM (max 2 at a time) - USA · Nano-SIM + Nano-SIM - CN
+1100,32,Body,Other,IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Stylus Armor Aluminum 2
+1101,32,Display,Type,"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak)"
+1102,32,Display,Size,"6.9 inches, 115.9 cm 2 (~90.7% screen-to-body ratio)"
+1103,32,Display,Resolution,"1440 x 3120 pixels, 19.5:9 ratio (~500 ppi density)"
+1104,32,Display,Protection,Corning Gorilla Armor 2
+1105,32,Display,Other,DX anti-reflective coating Privacy Display
+1106,32,Platform,OS,"Android 16, upgradable to Android 17, One UI 9, up to 7 major OS updates"
+1107,32,Platform,Chipset,Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm)
+1108,32,Platform,CPU,Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M)
+1109,32,Platform,GPU,Adreno 840 (1.3GHz)
+1110,32,Memory,Card slot,No
+1111,32,Memory,Internal,"256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM"
+1112,32,Memory,Other,UFS 4.X
+1113,32,Main Camera,Quad,"200 MP, f/1.4, 23mm (wide), 1/1.3"", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94"", 1.0µm, PDAF, OIS, 3x optical zoom 50 MP, f/2.9, 111mm (periscope telephoto), 1/2.52"", 0.7µm, PDAF, OIS, 5x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.5"", 0.7µm, dual pixel PDAF, Super Steady video"
+1114,32,Main Camera,Features,"Laser AF, Best Face, Horizon Lock, LED flash, auto-HDR, panorama"
+1115,32,Main Camera,Video,"8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+1116,32,Selfie camera,Single,"12 MP, f/2.2, 23mm (wide), 1/3.2"", 1.12µm, dual pixel PDAF"
+1117,32,Selfie camera,Features,"HDR, HDR10+"
+1118,32,Selfie camera,Video,"4K@30/60fps, 1080p@30fps"
+1119,32,Sound,Loudspeaker,"Yes, with stereo speakers"
+1120,32,Sound,3.5mm jack,No
+1121,32,Sound,Other,High-bitrate audio support
+1122,32,Comms,WLAN,"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+1123,32,Comms,Bluetooth,"6.0, A2DP, LE"
+1124,32,Comms,Positioning,"GPS, GLONASS, BDS, GALILEO, QZSS"
+1125,32,Comms,NFC,Yes
+1126,32,Comms,Radio,No
+1127,32,Comms,USB,"USB Type-C 3.2, DisplayPort 1.2, OTG"
+1128,32,Features,Sensors,"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+1129,32,Features,Other,"Samsung DeX, Samsung Wireless DeX (desktop experience support) Ultra Wideband (UWB) support"
+1130,32,Battery,Type,Li-Ion 5000 mAh
+1131,32,Battery,Charging,"60W wired, PD3.0, 75% in 30 min 25W wireless (Qi2.2) 4.5W reverse wireless"
+1132,32,Misc,Colors,"Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
+1133,32,Misc,Models,"SM-S948B, SM-S948B/DS, SM-S948U, SM-S948U1, SM-S948W, SM-S948N, SM-S9480, SM-S948E, SM-S948E/DS"
+1134,32,Misc,SAR,1.09 W/kg (head) 1.19 W/kg (body)
+1135,32,Misc,SAR EU,1.28 W/kg (head) 1.35 W/kg (body)
+1136,32,Misc,Price,"$ 898.99 / € 954.95 / £ 809.99 / ₹ 139,999"
+1137,32,Our Tests,Performance,"AnTuTu: 2627986 (v10), 3892165 (v11) GeekBench: 11566 (v6) 3DMark: 7744 (Wild Life Extreme)"
+1138,32,Our Tests,Display,1480 nits max brightness (measured)
+1139,32,Our Tests,Loudspeaker,-25.9 LUFS (Very good)
+1140,32,Our Tests,Battery,Active use score 16:23h
+1141,32,EU LABEL,Energy,Class A
+1142,32,EU LABEL,Battery,"55:00h endurance, 1200 cycles"
+1143,32,EU LABEL,Free fall,Class A (270 falls)
+1144,32,EU LABEL,Repairability,Class C

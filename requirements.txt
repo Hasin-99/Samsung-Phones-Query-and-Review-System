@@ -1,0 +1,18 @@
+# Core scraping + DB
+requests>=2.34
+beautifulsoup4>=4.15
+SQLAlchemy>=2.1
+psycopg[binary]>=3.3
+python-dotenv>=1.2
+
+# RAG / embeddings
+pgvector>=0.5
+sentence-transformers>=6.3
+groq>=1.7
+
+# Multi-agent
+crewai>=1.15
+
+# API
+fastapi>=0.120
+uvicorn[standard]>=0.54
