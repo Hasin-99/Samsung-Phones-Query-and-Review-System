@@ -130,25 +130,24 @@ The application exposes the following endpoints:
 
 ```text
 Samsung-Phones-Query-and-Review-System/
-¢x
-¢u¢w¢w scraper.py
-¢u¢w¢w db.py
-¢u¢w¢w rag_schema.py
-¢u¢w¢w rag_chat.py
-¢u¢w¢w agents.py
-¢u¢w¢w crew_runner.py
-¢u¢w¢w main.py
-¢u¢w¢w seed_from_csv.py
-¢u¢w¢w embed_specs.py
-¢x
-¢u¢w¢w data/
-¢x   ¢|¢w¢w seed/
-¢x       ¢|¢w¢w CSV data exports
-¢x
-¢u¢w¢w requirements.txt
-¢u¢w¢w .env
-¢u¢w¢w .gitignore
-¢|¢w¢w README.md
+|-- scraper.py
+|-- db.py
+|-- rag_schema.py
+|-- rag_chat.py
+|-- agents.py
+|-- crew_runner.py
+|-- main.py
+|-- seed_from_csv.py
+|-- embed_specs.py
+|
+|-- data/
+|   `-- seed/
+|       `-- CSV data exports
+|
+|-- requirements.txt
+|-- .env
+|-- .gitignore
+`-- README.md
 ```
 
 ## Installation and Setup
