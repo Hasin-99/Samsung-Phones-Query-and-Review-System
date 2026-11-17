@@ -14,7 +14,7 @@ An end-to-end intelligent smartphone information and review generation system th
 
 ## System Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](architecture_v2.png)
 
 The system follows a modular architecture consisting of five major components:
 
