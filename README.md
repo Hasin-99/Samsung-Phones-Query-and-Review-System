@@ -1,3 +1,4 @@
+
 # Samsung Phone Query & Review System
 
 An end-to-end intelligent smartphone information and review generation system that scrapes Samsung smartphone specifications from GSMArena, stores structured data in PostgreSQL, answers natural-language questions using Retrieval-Augmented Generation (RAG), generates detailed product reviews through a CrewAI multi-agent pipeline, and exposes all functionalities through a FastAPI service.
@@ -64,7 +65,20 @@ The system currently contains information about 13 Samsung smartphones collected
 | Galaxy S26 | 60 | 2026 | Snapdragon 8 Elite Gen 5 |
 | Galaxy S26 Ultra | 61 | 2026 | Snapdragon 8 Elite Gen 5 |
 
-Each smartphone also has a structured `phone_features` record containing: display size and technology, resolution, chipset, OS, RAM and storage, main camera MP, selfie camera MP, battery mAh, charging speed (W), active-use score, endurance rating, and weight.
+Each smartphone also has a structured `phone_features` record containing:
+
+- Display size and technology
+- Screen resolution
+- Chipset
+- Operating system
+- RAM and internal storage
+- Main camera resolution (MP)
+- Selfie camera resolution (MP)
+- Battery capacity (mAh)
+- Charging speed (W)
+- Active-use score
+- Battery endurance rating
+- Device weight
 
 **Dataset Summary:**
 - Total smartphones: 13
@@ -74,24 +88,28 @@ Each smartphone also has a structured `phone_features` record containing: displa
 ## Core Features
 
 ### 1. Automated Web Scraping
+
 - Extracts Samsung smartphone specifications from GSMArena.
 - Uses Requests and BeautifulSoup4 for data collection.
 - Organizes scraped information into structured records.
 - Supports storing smartphone specifications in PostgreSQL.
 
 ### 2. PostgreSQL Database
+
 - Uses PostgreSQL with SQLAlchemy ORM.
 - Implements relational database tables and foreign-key constraints.
 - Supports vector storage through pgvector.
 - Stores both detailed specifications and structured smartphone features.
 
 ### 3. Retrieval-Augmented Generation (RAG)
+
 - Uses `all-MiniLM-L6-v2` for generating 384-dimensional embeddings.
 - Retrieves relevant smartphone information from the database.
 - Uses Groq-hosted LLM inference for contextual responses.
 - Answers natural-language questions based on the collected dataset.
 
 ### 4. CrewAI Multi-Agent Review Generation
+
 - Uses two specialized AI agents.
 - Analyzes smartphone specifications.
 - Generates structured product reviews of approximately 300¡V400 words.
@@ -112,20 +130,158 @@ The application exposes the following endpoints:
 
 ```text
 Samsung-Phones-Query-and-Review-System/
-|-- scraper.py
-|-- db.py
-|-- rag_schema.py
-|-- rag_chat.py
-|-- agents.py
-|-- crew_runner.py
-|-- main.py
-|-- seed_from_csv.py
-|-- data/
-|   |-- seed/ (CSV data exports)
-|-- requirements.txt
-|-- .env
-|-- .gitignore
-|-- README.md
+¢x
+¢u¢w¢w scraper.py
+¢u¢w¢w db.py
+¢u¢w¢w rag_schema.py
+¢u¢w¢w rag_chat.py
+¢u¢w¢w agents.py
+¢u¢w¢w crew_runner.py
+¢u¢w¢w main.py
+¢u¢w¢w seed_from_csv.py
+¢u¢w¢w embed_specs.py
+¢x
+¢u¢w¢w data/
+¢x   ¢|¢w¢w seed/
+¢x       ¢|¢w¢w CSV data exports
+¢x
+¢u¢w¢w requirements.txt
+¢u¢w¢w .env
+¢u¢w¢w .gitignore
+¢|¢w¢w README.md
+```
+
+## Installation and Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone <your-repo-url>
+cd Samsung-Phones-Query-and-Review-System
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python3.12 -m venv .venv
+```
+
+### 3. Activate the Virtual Environment
+
+**macOS / Linux:**
+
+```bash
+source .venv/bin/activate
+```
+
+**Windows:**
+
+```bash
+.venv\Scripts\activate
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 5. Configure Environment Variables
+
+Create a `.env` file in the project root directory:
+
+```env
+DATABASE_URL=postgresql+psycopg://username:password@host:5432/database_name
+GROQ_API_KEY=your_groq_api_key
+```
+
+Replace the placeholder values with your actual PostgreSQL connection string and Groq API key.
+
+**Note:** Never commit your `.env` file or expose API credentials in a public repository.
+
+### 6. Initialize the Database
+
+You can rebuild the database structure and load the existing smartphone data using the provided CSV exports:
+
+```bash
+python db.py
+python rag_schema.py
+python seed_from_csv.py
+python embed_specs.py
+```
+
+Alternatively, run the scraper to collect fresh smartphone specifications directly from GSMArena:
+
+```bash
+python scraper.py
+```
+
+**Note:** Run the database initialization and data-loading scripts in the order required by their implementation. The CSV seeding and embedding scripts depend on the corresponding database tables and data.
+
+### 7. Start the FastAPI Server
+
+```bash
+uvicorn main:app --reload
+```
+
+The API will be available at:
+
+`http://127.0.0.1:8000`
+
+Interactive API documentation:
+
+`http://127.0.0.1:8000/docs`
+
+Alternative API documentation:
+
+`http://127.0.0.1:8000/redoc`
+
+## Example API Usage
+
+### Check Application Health
+
+```http
+GET /health
+```
+
+### Retrieve Samsung Smartphones
+
+```http
+GET /phones
+```
+
+### Ask a Natural-Language Question
+
+```http
+POST /ask
+Content-Type: application/json
+```
+
+Example request:
+
+```json
+{
+  "query": "Which Samsung smartphone has the best battery capacity?"
+}
+```
+
+### Generate a Smartphone Review
+
+```http
+POST /review
+Content-Type: application/json
+```
+
+Example request:
+
+```json
+{
+  "phone_name": "Samsung Galaxy S25 Ultra"
+}
+```
+
+**Note:** Example request fields should match the Pydantic request schemas implemented in `main.py`.
 
 ## Testing and Verification
 
