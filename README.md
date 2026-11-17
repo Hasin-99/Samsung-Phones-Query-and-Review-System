@@ -126,3 +126,46 @@ Samsung-Phones-Query-and-Review-System/
 |-- .env
 |-- .gitignore
 |-- README.md
+
+## Testing and Verification
+
+The following components have been implemented and tested:
+
+- Web scraper successfully collected data for 13 Samsung smartphones.
+- PostgreSQL database contains five tables with relational constraints and pgvector support.
+- RAG chatbot successfully verified against three sample task queries.
+- CrewAI pipeline generated product reviews of approximately 300¡V400 words using two agents.
+- FastAPI service provides health-check, smartphone retrieval, question-answering, and review-generation endpoints.
+
+## Future Improvements
+
+- Expand the smartphone dataset to include additional Samsung models.
+- Implement automated scraping schedules and incremental database updates.
+- Improve RAG retrieval accuracy through hybrid search and reranking.
+- Add source citations and specification references to chatbot responses.
+- Introduce review evaluation and factual consistency checks.
+- Develop a frontend dashboard for interacting with the system.
+- Add authentication, request validation, and API rate limiting.
+- Implement automated unit and integration testing.
+- Add Docker support for easier deployment.
+- Deploy the application with production-ready configuration.
+
+## Disclaimer
+
+This project is developed for educational and research purposes. Smartphone specifications are collected from GSMArena. All product names, trademarks, and related content belong to their respective owners.
+
+The accuracy of generated answers and reviews depends on the quality of the collected data and the underlying language models.
+
+## Author
+
+**Md. Shadman Hasin**
+
+Computer Science & Engineering Graduate | Software Developer & IT Professional
+
+- LinkedIn: [linkedin.com/in/md-shadman-hasin](https://linkedin.com/in/md-shadman-hasin)
+- GitHub: [github.com/Hasin-99](https://github.com/Hasin-99)
+- Portfolio: [hasin-portfolio.onrender.com](https://hasin-portfolio.onrender.com)
+
+---
+
+**Built with Python, PostgreSQL, RAG, CrewAI, and FastAPI.**
